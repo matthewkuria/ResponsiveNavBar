@@ -116,5 +116,7 @@ a{
     .nav-menu.active{
         left:0;
     }
-}
+    .nav-branding{
+        font-size: 1.2rem;
+    }
 }
